@@ -15,10 +15,9 @@ require.config({ baseUrl: '/scripts'
                        }
                 });
 require(
-  [ 'jquery', 'app' ],
+  [ 'jquery', 'app.work' ],
   function($, app){
     'use strict';
-
     $(app);
   }
 );

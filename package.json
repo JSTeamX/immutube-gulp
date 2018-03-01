@@ -1,0 +1,28 @@
+{
+  "name": "immutube",
+  "version": "1.0.0",
+  "description": "Immutube project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JSTeamX/immutube-gulp.git"
+  },
+  "keywords": [
+    "fp"
+  ],
+  "author": "heanfig",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JSTeamX/immutube-gulp/issues"
+  },
+  "homepage": "https://github.com/JSTeamX/immutube-gulp#readme",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "gulp-webserver": "^0.9.1"
+  }
+}
